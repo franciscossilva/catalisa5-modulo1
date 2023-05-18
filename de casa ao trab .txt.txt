@@ -1,0 +1,7 @@
+1 Acordar
+2 levantar 
+3 tomar banho
+4 escovar os dentes
+5 vestir -se 
+6 tomar cafe 
+7 dirigir ao trabalho
